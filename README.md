@@ -125,9 +125,11 @@ Computer-Vision/
 │   └── wigs/
 
 └── src/
-|    
-    ├── __init__.py
-|   
+
+│
+    └── __init__.py
+
+│   
     └── wig_overlay.py
 
 ## ⚙️ Requirements
