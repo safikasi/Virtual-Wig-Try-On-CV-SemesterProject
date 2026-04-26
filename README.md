@@ -111,14 +111,23 @@ assets/wigs/
 ## 📁 Project Structure
 
 Computer-Vision/
+
 ├── main.py
+
 ├── requirements.txt
+
 ├── generate_sample_wigs.py
+
 ├── README.md
+
 ├── assets/
+
 │   └── wigs/
+
 └── src/
+
     ├── __init__.py
+    
     └── wig_overlay.py
 
 ## ⚙️ Requirements
